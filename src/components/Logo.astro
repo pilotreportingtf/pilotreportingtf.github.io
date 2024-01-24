@@ -1,0 +1,17 @@
+---
+import { SITE } from '~/utils/config';
+import {getPermalink} from "../utils/permalinks";
+import Image from "./common/Image.astro";
+---
+
+<span class="self-center ml-2 rtl:ml-0 rtl:mr-2 text-2xl md:text-xl font-bold text-gray-900 whitespace-nowrap dark:text-white">
+      {
+        <Image
+          src="/src/assets/images/PRP_TF_Logo.svg"
+          alt=""
+          width={40}
+          aspectRatio="559:334"
+          class="inset-0 inline mr-1"
+        />
+      } {SITE?.name}
+</span>
