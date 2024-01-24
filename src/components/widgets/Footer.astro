@@ -3,6 +3,7 @@ import { Icon } from 'astro-icon/components';
 import { SITE } from '~/utils/config';
 import { getHomePermalink } from '~/utils/permalinks';
 import Image from "../common/Image.astro";
+import logoImage from '../../../src/assets/images/PRP_TF_Logo.svg';
 
 interface Link {
   text?: string;
@@ -34,7 +35,7 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '', theme 
       <div class="col-span-12 lg:col-span-4">
         <div class="mb-2">
           <Image
-            src="/src/assets/images/PRP_TF_Logo.svg"
+            src={logoImage}
             alt=""
             width={40}
             aspectRatio="559:334"
