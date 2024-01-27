@@ -76,8 +76,8 @@ export const footerData = {
     // { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/onwidget/astrowind' },
   ],
   footNote: `
-    <div class="content-center">
-      Contact us <a href="mailto:pilotreportingtf---gmail.com" id="contact-link">pilotreportingtf---gmail.com</a>
+    <div class="text-center">
+      <strong>Contact us: </strong> <a href="mailto:pilotreportingtf---gmail.com" id="contact-link">pilotreportingtf---gmail.com</a>
       <script type="text/javascript">document.getElementById('contact-link').textContent=document.getElementById('contact-link').textContent.replace(/---/, '@');document.getElementById('contact-link').href='mailto:'+document.getElementById('contact-link').textContent</script>
     </div>
   `,

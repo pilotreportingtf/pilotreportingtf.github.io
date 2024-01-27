@@ -5,8 +5,8 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 ## Lead
 
-![Mary Beth Neff](../assets/images/people/MaryBethNeff.jpg)<!--rehype:style=width:200px;&class=rounded-full sm:rounded-full md:rounded-full lg:rounded-full-->
-[**Mary Beth Neff**](https://www.hf.uio.no/ifikk/english/people/aca/philosophy/temporary/maryen/) (_University of Oslo, Norway_)
+![Mary Beth Neff](../assets/images/people/MaryBethNeff.jpg)<!--rehype:style=width:200px;&class=rounded-full-->
+[**Mary Beth Neff**](https://www.hf.uio.no/ifikk/english/people/aca/philosophy/temporary/maryen/)<!--rehype:target=_blank--> (_University of Oslo, Norway_)
 
 ## Steering Committee
 
