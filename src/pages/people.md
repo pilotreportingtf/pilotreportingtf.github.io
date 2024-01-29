@@ -34,4 +34,5 @@ layout: '~/layouts/MarkdownLayout.astro'
 ![Kai Li Chung](../assets/images/people/KLC_circle.jpg)<!--rehype:style=width:200px;&class=rounded-full-->
 [**Kai Li Chung**](https://www.reading.edu.my/about-us/our-staff/academic-team/dr-chung-kai-li)<!--rehype:target=_blank--> (_University of Reading Malaysia, Malaysia_)
 
+![Jade Pickering](../assets/images/people/JP_circle.jpg)<!--rehype:style=width:200px;&class=rounded-full-->
 [**Jade Pickering**](https://gorilla.sc/about/)<!--rehype:target=_blank--> (_Gorilla Experiment Builder, UK_)
