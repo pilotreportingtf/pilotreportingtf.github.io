@@ -10,5 +10,5 @@ _Project Leads:_ Jade Pickering, Johanna Tomczak, & Isaac Handley-Miner
 
 
 ## Sponsors
-[![BITSS](../assets/images/bitss_icon.png)<!--rehype:style=width:150px;-->](https://www.bitss.org/)<!--rehype:target=_blank-->
+[![BITSS](../assets/images/bitss_icon.png)<!--rehype:style=width:140px;&class=inline-->](https://www.bitss.org/)<!--rehype:target=_blank-->[![Gorilla Experiment Builder](../assets/images/logo-red-on-white.png)<!--rehype:style=width:150px;&class=inline-->](https://gorilla.sc/)<!--rehype:target=_blank-->
 
