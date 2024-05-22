@@ -15,5 +15,6 @@ _In person facilitators:_ Mary Beth Neff & Agata Bochynska
 _Online facilitators:_ Isaac Handley-Miner, Hannah Lönneker, & Kai Li Chung
 
 ## Sponsors
-[![BITSS](../assets/images/bitss_icon.png)<!--rehype:style=width:140px;&class=inline-->](https://www.bitss.org/)<!--rehype:target=_blank-->[![Gorilla Experiment Builder](../assets/images/logo-red-on-white.png)<!--rehype:style=width:150px;&class=inline-->](https://gorilla.sc/)<!--rehype:target=_blank-->
+[![BITSS](../assets/images/bitss_icon.png)<!--rehype:style=width:140px;&class=inline not-prose-->](https://www.bitss.org/)<!--rehype:target=_blank-->
+[![Gorilla Experiment Builder](../assets/images/logo-red-on-white.png)<!--rehype:style=width:150px;&class=inline not-prose-->](https://gorilla.sc/)<!--rehype:target=_blank-->
 
