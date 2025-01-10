@@ -22,17 +22,8 @@ layout: '~/layouts/MarkdownLayout.astro'
 ![Johanna Tomczak](../assets/images/people/JT_circle.jpg)<!--rehype:style=width:200px;&class=rounded-full-->
 [**Johanna Tomczak**](https://gorilla.sc/about/)<!--rehype:target=_blank--> (_Gorilla Experiment Builder, UK_)
 
-![Rachel Hayes-Harb](../assets/images/people/RHH_circle.jpg)<!--rehype:style=width:200px;&class=rounded-full-->
-[**Rachel Hayes-Harb**](https://speechlab.utah.edu/rhh.php)<!--rehype:target=_blank--> (_University of Utah, USA_)
-
-![Shannon Barrios](../assets/images/people/SB_circle.jpg)<!--rehype:style=width:200px;&class=rounded-full-->
-[**Shannon Barrios**](https://sites.google.com/view/speech-acquisition-lab/shannon-barrios)<!--rehype:target=_blank--> (_University of Utah, USA_)
-
 ![Isaac Handley-Miner](../assets/images/people/IHM_circle.jpg)<!--rehype:style=width:200px;&class=rounded-full-->
 [**Isaac Handley-Miner**](https://moralitylab.bc.edu/people/isaac-handley-miner-2/)<!--rehype:target=_blank--> (_Boston College, USA_)
 
 ![Kai Li Chung](../assets/images/people/KLC_circle.jpg)<!--rehype:style=width:200px;&class=rounded-full-->
-[**Kai Li Chung**](https://www.reading.edu.my/about-us/our-staff/academic-team/dr-chung-kai-li)<!--rehype:target=_blank--> (_University of Reading Malaysia, Malaysia_)
-
-![Jade Pickering](../assets/images/people/JP_circle.jpg)<!--rehype:style=width:200px;&class=rounded-full-->
-[**Jade Pickering**](https://gorilla.sc/about/)<!--rehype:target=_blank--> (_Gorilla Experiment Builder, UK_)
+[**Kai Li Chung**](https://www.nottingham.edu.my/Psychology/People/kaili.chung)<!--rehype:target=_blank--> (_University of Nottingham Malaysia, Malaysia_)
