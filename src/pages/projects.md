@@ -4,7 +4,7 @@ layout: '~/layouts/MarkdownLayout.astro'
 ---
 
 ## 1. Survey on Piloting Practices in Psychology
-This project investigated how psychological researchers design and conduct pilot studies, as well as their perceptions of the value, challenges, and feasibility of transparently reporting pilot studies in publications. Click here for the [final report](/pilotingTF_technical-report2024.pdf).
+This project investigated how psychological researchers design and conduct pilot studies, as well as their perceptions of the value, challenges, and feasibility of transparently reporting pilot studies in publications. You can find the final report [here](/pilotingTF_technical-report2024.pdf).
 
 _Project Leads:_ Isaac Handley-Miner, Jade Pickering, & Johanna Tomczak
 
