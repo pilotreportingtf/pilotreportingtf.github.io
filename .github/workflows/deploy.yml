@@ -24,11 +24,6 @@ jobs:
         uses: withastro/action@v1
         with:
           package-manager: pnpm@latest
-      - name: Upload Pages artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: github-pages
-          path: dist
 
   deploy:
     needs: build
@@ -39,4 +34,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
