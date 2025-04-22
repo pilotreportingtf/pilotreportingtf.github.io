@@ -6,9 +6,9 @@ layout: '~/layouts/MarkdownLayout.astro'
 ## Upcoming
 April 29, 2025 (17-18:30 UTC) – Piloting for Developmental Science, Online Panel Discussion hosted by [ManyBabies Consortium](https://manybabies.org/events/) – Bochynska & Neff
  
-June 25-27, 2025 (Exact Date & Time TBC) – Are we reporting pilots? Results from an international survey across psychological subfields, Talk ([SIPS 2025](https://www.improvingpsych.org/SIPS2025/), Budapest) – Bochynska
+June 25-27, 2025 (Exact Date & Time TBC) – Are We Reporting Pilots? Results from an International Survey Across Psychological Subfields, Talk ([SIPS 2025](https://www.improvingpsych.org/SIPS2025/), Budapest) – Bochynska
 
-June 25-27, 2025 (Exact Date & Time TBC) – Testing pilot study reporting templates for versatility and user experience, Hackathon ([SIPS 2025](https://www.improvingpsych.org/SIPS2025/), Budapest) – Neff & Pilot Reporting Task Force
+June 25-27, 2025 (Exact Date & Time TBC) – Testing Pilot Study Reporting Templates for Versatility and User Experience, Hackathon ([SIPS 2025](https://www.improvingpsych.org/SIPS2025/), Budapest) – Neff & Pilot Reporting Task Force
 
 
 ## Past
