@@ -1,3 +1,9 @@
+---
+title: 'Events'
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+
 ## Upcoming
 April 29, 2025 (17-18:30 UTC) – Piloting for Developmental Science, Online Panel Discussion hosted by [ManyBabies Consortium](https://manybabies.org/events/).
  
