@@ -58,5 +58,4 @@ layout: '~/layouts/MarkdownLayout.astro'
 [**Bjørn Sætrevik**](https://www4.uib.no/finn-ansatte/Bj%C3%B8rn.S%C3%A6trevik)<!--rehype:target=_blank--> (_University of Bergen, Norway_)
 
 ## Past Members
-
 [**Rachel Hayes-Harb**](https://profiles.faculty.utah.edu/u0459139) (_University of Utah, USA_); [**Shannon Barrios**](https://profiles.faculty.utah.edu/u0907833) (_University of Utah, USA_); [**Jade Pickering**](https://gorilla.sc/about/) (_Gorilla Experiment Builder, UK_)
