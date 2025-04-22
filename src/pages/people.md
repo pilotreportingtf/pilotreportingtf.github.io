@@ -33,13 +33,13 @@ layout: '~/layouts/MarkdownLayout.astro'
 ![Chris Graham](../assets/images/people/CG.jpg)<!--rehype:style=width:200px;&class=rounded-full-->
 [**Chris Graham**](https://www.linkedin.com/in/christopher-j-graham/)<!--rehype:target=_blank--> (_Royal College of Physicians of Edinburgh, Scotland_)
 
-![Priya Silverstein](../assets/images/people/PS.jpg)<!--rehype:style=width:200px;&class=rounded-full-->
+![Priya Silverstein](../assets/images/people/PS.jpeg)<!--rehype:style=width:200px;&class=rounded-full-->
 [**Priya Silverstein**](https://www.priyasilverstein.com/)<!--rehype:target=_blank--> (_Ashland University, USA_)
 
 ![Lukas Wallrich](../assets/images/people/LW.jpg)<!--rehype:style=width:200px;&class=rounded-full-->
 [**Lukas Wallrich**](https://www.lukaswallrich.coffee/)<!--rehype:target=_blank--> (_Birkbeck University of London, UK_)
 
-![Julia Beitner](../assets/images/people/JB.jpg)<!--rehype:style=width:200px;&class=rounded-full-->
+![Julia Beitner](../assets/images/people/JB.JPG)<!--rehype:style=width:200px;&class=rounded-full-->
 [**Julia Beitner**](https://www.juliabeitner.com/)<!--rehype:target=_blank--> (_Central Institute of Mental Health, Germany_)
 
 ![Mahmoud Elsherif](../assets/images/PRP_TF_Logo.png)<!--rehype:style=width:200px;&class=rounded-full-->
