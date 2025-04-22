@@ -4,15 +4,19 @@ layout: '~/layouts/MarkdownLayout.astro'
 ---
 
 ## 1. Survey on Piloting Practices in Psychology
-To gain insights into the variety of piloting practices across psychology, we are conducting a survey capturing researchers' perspectives on how they understand, approach, and conduct pilot studies.
+This project investigated how psychological researchers design and conduct pilot studies, as well as their perceptions of the value, challenges, and feasibility of transparently reporting pilot studies in publications. Click here for the [final report](https://osf.io/4t5r3).
 
-_Project Leads:_ Jade Pickering, Johanna Tomczak, & Isaac Handley-Miner
+_Project Leads:_ Isaac Handley-Miner, Jade Pickering, & Johanna Tomczak
 
-## 2. Developing a Template for Transparent Pilot Study Reporting
-To kick off this project, we will lead two [hackathons](https://osf.io/vjt2x)<!--rehype:target=_blank--> at [SIPS 2024](https://www.improvingpsych.org/SIPS2024/)<!--rehype:target=_blank--> (one in person and one online). We will build on insights from our 2023 SIPS [unconference](https://osf.io/3t7hz)<!--rehype:target=_blank--> and the piloting practices survey to draft a standalone reporting template for pilot studies.
+## 2. Meta-Assessment of Pilot Study Reporting in Psychology
+This project investigates the frequency and quality of pilot study reporting in recent psychological research. We’ll be recruiting contributors in summer 2025. If you're interested in getting involved, please contact [Agata](https://www.ub.uio.no/english/about/people/samdig/open-research/agatabo/) or reach out to our task force team for more information.
 
-_In person facilitators:_ Mary Beth Neff & Agata Bochynska \
-_Online facilitators:_ Isaac Handley-Miner, Agata Bochynska, & Mary Beth Neff
+_Project Lead:_ Agata Bochynska
+
+## 3. Developing Standalone and Manuscript Companion Templates for Transparent Pilot Study Reporting
+We kicked off this project with two [hackathons](https://osf.io/vjt2x) <!--rehype:target=_blank--> at [SIPS 2024](https://www.improvingpsych.org/SIPS2024/). Since then, we’ve developed a draft standalone template and a companion template for manuscripts. We’ll be conducting user testing on both at [SIPS 2025](https://www.improvingpsych.org/SIPS2025/) so come join our session if you are interested in contributing. 
+
+_Project Lead:_ Mary Beth Neff
 
 ## Sponsors
 [![BITSS](../assets/images/bitss_icon.png)<!--rehype:style=width:140px;&class=inline not-prose-->](https://www.bitss.org/)<!--rehype:target=_blank-->
