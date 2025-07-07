@@ -25,7 +25,7 @@ layout: '~/layouts/MarkdownLayout.astro'
 [**Hannah Lönneker**](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/psychology/research-groups/diagnostics-and-cognitive-neuropsychology/research-group/staff/hannah-dorothea-loenneker/)<!--rehype:target=_blank--> (_University of Tübingen, Germany_)
 
 ![Johanna Tomczak](../assets/images/people/JT_circle.jpg)<!--rehype:style=width:200px;&class=rounded-full-->
-[**Johanna Tomczak**](https://gorilla.sc/about/)<!--rehype:target=_blank--> (_Gorilla Experiment Builder, UK_)
+[**Johanna Tomczak**](https://www.linkedin.com/in/johanna-tomczak/)<!--rehype:target=_blank--> (_Independent Researcher, UK_)
 
 ![Kai Li Chung](../assets/images/people/KLC_circle.jpg)<!--rehype:style=width:200px;&class=rounded-full-->
 [**Kai Li Chung**](https://www.nottingham.edu.my/Psychology/People/kaili.chung)<!--rehype:target=_blank--> (_University of Nottingham Malaysia, Malaysia_)
@@ -58,4 +58,4 @@ layout: '~/layouts/MarkdownLayout.astro'
 [**Bjørn Sætrevik**](https://www4.uib.no/finn-ansatte/Bj%C3%B8rn.S%C3%A6trevik)<!--rehype:target=_blank--> (_University of Bergen, Norway_)
 
 ## Past Members
-[**Rachel Hayes-Harb**](https://profiles.faculty.utah.edu/u0459139) (_University of Utah, USA_); [**Shannon Barrios**](https://profiles.faculty.utah.edu/u0907833) (_University of Utah, USA_); [**Jade Pickering**](https://gorilla.sc/about/) (_Gorilla Experiment Builder, UK_)
+[**Rachel Hayes-Harb**](https://profiles.faculty.utah.edu/u0459139) (_University of Utah, USA_); [**Shannon Barrios**](https://profiles.faculty.utah.edu/u0907833) (_University of Utah, USA_); [**Jade Pickering**](https://www.linkedin.com/in/jadespickering/) (_Gorilla Experiment Builder, UK_)
