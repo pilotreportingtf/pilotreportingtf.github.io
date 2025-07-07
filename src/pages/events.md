@@ -10,7 +10,7 @@ June 25-27, 2025 (Exact Date & Time TBC) – Testing Pilot Study Reporting Templ
 
 
 ## Past
-2025 – [Piloting for Developmental Science, Online Panel Discussion](https://www.youtube.com/watch?v=bS9EhYjmhWk) hosted by [ManyBabies Consortium](https://manybabies.org/events/) – Bochynska & Neff
+2025 – [Piloting for Developmental Science], Online Panel Discussion (https://www.youtube.com/watch?v=bS9EhYjmhWk) hosted by [ManyBabies Consortium](https://manybabies.org/events/) – Bochynska & Neff
 
 2025 – How Are We Running Pilot Studies, and Are We Reporting Them?, Talk (UiO ReproducibiliTea, Oslo) – Bochynska
 
