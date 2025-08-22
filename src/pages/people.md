@@ -42,6 +42,9 @@ layout: '~/layouts/MarkdownLayout.astro'
 ![Julia Beitner](../assets/images/people/JB.JPG)<!--rehype:style=width:200px;&class=rounded-full-->
 [**Julia Beitner**](https://www.juliabeitner.com/)<!--rehype:target=_blank--> (_Central Institute of Mental Health, Germany_)
 
+![Bjørn Sætrevik](../assets/images/people/Bjoern_Saetrevik.jpg)<!--rehype:style=width:200px;&class=rounded-full-->
+[**Bjørn Sætrevik**](https://www4.uib.no/finn-ansatte/Bj%C3%B8rn.S%C3%A6trevik)<!--rehype:target=_blank--> (_University of Bergen, Norway_)
+
 ![Mahmoud Elsherif](../assets/images/PRP_TF_Logo.png)<!--rehype:style=width:200px;&class=rounded-full-->
 [**Mahmoud Elsherif**](https://www.linkedin.com/in/mahmoud-elsherif-020194134/)<!--rehype:target=_blank--> (_Independent Researcher, UK_)
 
@@ -54,8 +57,6 @@ layout: '~/layouts/MarkdownLayout.astro'
 ![Justin Sulik](../assets/images/PRP_TF_Logo.png)<!--rehype:style=width:200px;&class=rounded-full-->
 [**Justin Sulik**](http://justinsulik.com/)<!--rehype:target=_blank--> (_Ludwig Maximilian University of Munich, Germany_)
 
-![Bjørn Sætrevik](../assets/images/PRP_TF_Logo.png)<!--rehype:style=width:200px;&class=rounded-full-->
-[**Bjørn Sætrevik**](https://www4.uib.no/finn-ansatte/Bj%C3%B8rn.S%C3%A6trevik)<!--rehype:target=_blank--> (_University of Bergen, Norway_)
 
 ## Past Members
 [**Rachel Hayes-Harb**](https://profiles.faculty.utah.edu/u0459139) (_University of Utah, USA_); [**Shannon Barrios**](https://profiles.faculty.utah.edu/u0907833) (_University of Utah, USA_); [**Jade Pickering**](https://www.linkedin.com/in/jadespickering/) (_Gorilla Experiment Builder, UK_)
