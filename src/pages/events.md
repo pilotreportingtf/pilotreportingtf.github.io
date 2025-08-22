@@ -4,12 +4,13 @@ layout: '~/layouts/MarkdownLayout.astro'
 ---
 
 ## Upcoming
-June 25-27, 2025 (Exact Date & Time TBC) – Are We Reporting Pilots? Results from an International Survey Across Psychological Subfields, Talk ([SIPS 2025](https://www.improvingpsych.org/SIPS2025/), Budapest) – Bochynska
-
-June 25-27, 2025 (Exact Date & Time TBC) – Testing Pilot Study Reporting Templates for Versatility and User Experience, Hackathon ([SIPS 2025](https://www.improvingpsych.org/SIPS2025/), Budapest) – Neff & Pilot Reporting Task Force
-
+TBD
 
 ## Past
+2025 – Are We Reporting Pilots? Results from an International Survey Across Psychological Subfields, Talk ([SIPS 2025](https://www.improvingpsych.org/SIPS2025/), Budapest) – Bochynska & Pilot Reporting Task Force
+
+2025 – Testing Pilot Study Reporting Templates for Versatility and User Experience, Hackathon ([SIPS 2025](https://www.improvingpsych.org/SIPS2025/), Budapest) – Neff, Bochynska, & Pilot Reporting Task Force
+
 2025 – [Piloting for Developmental Science](https://www.youtube.com/watch?v=bS9EhYjmhWk), Online Panel Discussion hosted by [ManyBabies Consortium](https://manybabies.org/events/) – Bochynska & Neff
 
 2025 – How Are We Running Pilot Studies, and Are We Reporting Them?, Talk (UiO ReproducibiliTea, Oslo) – Bochynska
