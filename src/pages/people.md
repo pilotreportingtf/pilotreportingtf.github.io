@@ -4,12 +4,12 @@ layout: '~/layouts/MarkdownLayout.astro'
 ---
 
 ## Task Force Lead
-
+<!--rehype:style=margin-bottom: 0.5rem;-->
 ![Mary Beth Neff](../assets/images/people/MBN_circle.jpg)<!--rehype:style=width:200px;&class=rounded-full-->
 [**Mary Beth Neff**](https://www.hf.uio.no/ifikk/english/people/aca/philosophy/temporary/maryen/)<!--rehype:target=_blank--> (_University of Oslo, Norway_)
 
 ## Working Group Leads
-
+<!--rehype:style=margin-bottom: 0.5rem;-->
 ![Agata Bochynska](../assets/images/people/AB_circle.jpg)<!--rehype:style=width:200px;&class=rounded-full-->
 [**Agata Bochynska**](https://www.ub.uio.no/english/about/people/samdig/open-research/agatabo/)<!--rehype:target=_blank--> (_University of Oslo, Norway_)
 
@@ -20,7 +20,7 @@ layout: '~/layouts/MarkdownLayout.astro'
 [**Yashvin Seetahul**](https://www.uibk.ac.at/de/psychologie/mitarbeiter/seetahul/)<!--rehype:target=_blank--> (_University of Innsbruck, Austria_)
 
 ## Members
-
+<!--rehype:style=margin-bottom: 0.5rem;-->
 ![Caroline Zygar-Hoffmann](../assets/images/people/CZH_circle.jpg)<!--rehype:style=width:200px;&class=rounded-full-->
 [**Caroline Zygar-Hoffmann**](https://psycaroly.github.io/)<!--rehype:target=_blank--> (_Ludwig Maximilian University of Munich & Charlotte Fresenius Hochschule, Germany_)
 
@@ -53,6 +53,7 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 
 ## Past Members
+<!--rehype:style=margin-bottom: 0.5rem;-->
 [**Rachel Hayes-Harb**](https://profiles.faculty.utah.edu/u0459139) (_University of Utah, USA_); [**Shannon Barrios**](https://profiles.faculty.utah.edu/u0907833) (_University of Utah, USA_); [**Jade Pickering**](https://www.linkedin.com/in/jadespickering/) (_Gorilla Experiment Builder, UK_);
 [**Johanna Tomczak**](https://www.linkedin.com/in/johanna-tomczak/) (_Independent Researcher, UK_); 
 [**Kai Li Chung**](https://www.nottingham.edu.my/Psychology/People/kaili.chung) (_University of Nottingham Malaysia, Malaysia_)
