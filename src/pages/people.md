@@ -27,17 +27,11 @@ layout: '~/layouts/MarkdownLayout.astro'
 ![Hannah Lönneker](../assets/images/people/HL_circle.jpg)<!--rehype:style=width:200px;&class=rounded-full-->
 [**Hannah Lönneker**](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/psychology/research-groups/diagnostics-and-cognitive-neuropsychology/research-group/staff/hannah-dorothea-loenneker/)<!--rehype:target=_blank--> (_University of Tübingen, Germany_)
 
-![Johanna Tomczak](../assets/images/people/JT_circle.jpg)<!--rehype:style=width:200px;&class=rounded-full-->
-[**Johanna Tomczak**](https://www.linkedin.com/in/johanna-tomczak/)<!--rehype:target=_blank--> (_Independent Researcher, UK_)
-
-![Kai Li Chung](../assets/images/people/KLC_circle.jpg)<!--rehype:style=width:200px;&class=rounded-full-->
-[**Kai Li Chung**](https://www.nottingham.edu.my/Psychology/People/kaili.chung)<!--rehype:target=_blank--> (_University of Nottingham Malaysia, Malaysia_)
-
 ![Chris Graham](../assets/images/people/CG.jpg)<!--rehype:style=width:200px;&class=rounded-full-->
 [**Chris Graham**](https://www.linkedin.com/in/christopher-j-graham/)<!--rehype:target=_blank--> (_Royal College of Physicians of Edinburgh, Scotland_)
 
 ![Priya Silverstein](../assets/images/people/PS.jpeg)<!--rehype:style=width:200px;&class=rounded-full-->
-[**Priya Silverstein**](https://www.priyasilverstein.com/)<!--rehype:target=_blank--> (_Ashland University, USA_)
+[**Priya Silverstein**](https://www.priyasilverstein.com/)<!--rehype:target=_blank--> (_University of Coimbra, PT_)
 
 ![Lukas Wallrich](../assets/images/people/LW.jpg)<!--rehype:style=width:200px;&class=rounded-full-->
 [**Lukas Wallrich**](https://www.lukaswallrich.coffee/)<!--rehype:target=_blank--> (_Birkbeck University of London, UK_)
@@ -59,4 +53,6 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 
 ## Past Members
-[**Rachel Hayes-Harb**](https://profiles.faculty.utah.edu/u0459139) (_University of Utah, USA_); [**Shannon Barrios**](https://profiles.faculty.utah.edu/u0907833) (_University of Utah, USA_); [**Jade Pickering**](https://www.linkedin.com/in/jadespickering/) (_Gorilla Experiment Builder, UK_)
+[**Rachel Hayes-Harb**](https://profiles.faculty.utah.edu/u0459139) (_University of Utah, USA_); [**Shannon Barrios**](https://profiles.faculty.utah.edu/u0907833) (_University of Utah, USA_); [**Jade Pickering**](https://www.linkedin.com/in/jadespickering/) (_Gorilla Experiment Builder, UK_);
+[**Johanna Tomczak**](https://www.linkedin.com/in/johanna-tomczak/) (_Independent Researcher, UK_); 
+[**Kai Li Chung**](https://www.nottingham.edu.my/Psychology/People/kaili.chung) (_University of Nottingham Malaysia, Malaysia_)
