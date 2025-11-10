@@ -7,13 +7,13 @@ layout: '~/layouts/MarkdownLayout.astro'
 ## Pilot Practices Assessment Group
 Examines current pilot study practices to inform future task force initiatives
 
-**1. Survey on Piloting Practices in Psychology (_completed_)**.\ 
-      This project investigated how psychological researchers design and conduct pilot studies, as well as their perceptions of the value, challenges, and feasibility of transparently reporting pilot studies in publications. You can find the final report [here](/pilotingTF_technical-report2024.pdf)..\ 
-      _Leads: Isaac Handley-Miner, Jade Pickering, & Johanna Tomczak_ 
+**1. Survey on Piloting Practices in Psychology (_completed_)**.\
+   This project investigated how psychological researchers design and conduct pilot studies, as well as their perceptions of the value, challenges, and feasibility of transparently reporting pilot studies in publications. You can find the final report [here](/pilotingTF_technical-report2024.pdf)..\
+   _Leads: Isaac Handley-Miner, Jade Pickering, & Johanna Tomczak_ 
 
-**2. Collection and Taxonomy of Piloting Practices in Psychology (_upcoming_)**.\ 
-     This project will compile and categorize existing piloting approaches across psychological subfields to build an open, accessible resource bank..\ 
-      _Leads: TBA_  
+**2. Collection and Taxonomy of Piloting Practices in Psychology (_upcoming_)**.\
+   This project will compile and categorize existing piloting approaches across psychological subfields to build an open, accessible resource bank..\
+   _Leads: TBA_  
 
 
 ## Pilot Reporting Assessment Group
@@ -47,4 +47,3 @@ Promotes transparent pilot study practices through scholarly dissemination and p
 ## Past Sponsors
 [![BITSS](../assets/images/bitss_icon.png)<!--rehype:style=width:140px;&class=inline not-prose-->](https://www.bitss.org/)<!--rehype:target=_blank-->
 [![Gorilla Experiment Builder](../assets/images/logo-red-on-white.png)<!--rehype:style=width:150px;&class=inline not-prose-->](https://gorilla.sc/)<!--rehype:target=_blank-->
-
