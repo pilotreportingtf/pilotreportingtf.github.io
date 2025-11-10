@@ -10,11 +10,14 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 ## Working Group Leads
 
+![Agata Bochynska](../assets/images/people/AB_circle.jpg)<!--rehype:style=width:200px;&class=rounded-full-->
+[**Agata Bochynska**](https://www.ub.uio.no/english/about/people/samdig/open-research/agatabo/)<!--rehype:target=_blank--> (_University of Oslo, Norway_)
+
 ![Isaac Handley-Miner](../assets/images/people/IHM_circle.jpg)<!--rehype:style=width:200px;&class=rounded-full-->
 [**Isaac Handley-Miner**](https://moralitylab.bc.edu/people/isaac-handley-miner-2/)<!--rehype:target=_blank--> (_Boston College, USA_)
 
-![Agata Bochynska](../assets/images/people/AB_circle.jpg)<!--rehype:style=width:200px;&class=rounded-full-->
-[**Agata Bochynska**](https://www.ub.uio.no/english/about/people/samdig/open-research/agatabo/)<!--rehype:target=_blank--> (_University of Oslo, Norway_)
+![Yashvin Seetahul](../assets/images/PRP_TF_Logo.png)<!--rehype:style=width:200px;&class=rounded-full-->
+[**Yashvin Seetahul**](https://www.uibk.ac.at/de/psychologie/mitarbeiter/seetahul/)<!--rehype:target=_blank--> (_University of Innsbruck, Austria_)
 
 ## Members
 
@@ -50,9 +53,6 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 ![Neele Henriette Heiser](../assets/images/PRP_TF_Logo.png)<!--rehype:style=width:200px;&class=rounded-full-->
 [**Neele Henriette Heiser**](https://scholar.google.com/citations?user=O1hLYnYAAAAJ&hl=de&oi=ao/)<!--rehype:target=_blank--> (_University of Geneva, Switzerland_)
-
-![Yashvin Seetahul](../assets/images/PRP_TF_Logo.png)<!--rehype:style=width:200px;&class=rounded-full-->
-[**Yashvin Seetahul**](https://www.uibk.ac.at/de/psychologie/mitarbeiter/seetahul/)<!--rehype:target=_blank--> (_University of Innsbruck, Austria_)
 
 ![Justin Sulik](../assets/images/PRP_TF_Logo.png)<!--rehype:style=width:200px;&class=rounded-full-->
 [**Justin Sulik**](http://justinsulik.com/)<!--rehype:target=_blank--> (_Ludwig Maximilian University of Munich, Germany_)
