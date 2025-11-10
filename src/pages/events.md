@@ -4,7 +4,7 @@ layout: '~/layouts/MarkdownLayout.astro'
 ---
 
 ## Upcoming
-2025 - A Call for Greater Transparency in Piloting, Talk (Language and Learning Lab, University of Toronto, Online) – Neff
+November 28th, 2025 - A Call for Greater Transparency in Piloting, Talk (Language and Learning Lab, University of Toronto, Online) – Neff
 
 ## Past
 2025 – A Call for Greater Transparency in Piloting, Talk (Computational Minds and Machines Lab, University of Washington, Seattle) – Handley-Miner
