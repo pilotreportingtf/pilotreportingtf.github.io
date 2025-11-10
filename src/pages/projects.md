@@ -11,7 +11,7 @@ Examines current pilot study practices to inform future task force initiatives
    This project investigated how psychological researchers design and conduct pilot studies, as well as their perceptions of the value, challenges, and feasibility of transparently reporting pilot studies in publications. You can find the final report [here](/pilotingTF_technical-report2024.pdf)<br>
    _Leads: Isaac Handley-Miner, Jade Pickering, & Johanna Tomczak_ 
 
-**2. Collection and Taxonomy of Piloting Practices in Psychology (_upcoming_)**<br>
+**2. Taxonomy of Piloting Practices in Psychology (_upcoming_)**<br>
    This project will compile and categorize existing piloting approaches across psychological subfields to build an open, accessible resource bank.<br>
    _Leads: TBA_  
 
