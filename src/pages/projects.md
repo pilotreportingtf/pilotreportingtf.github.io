@@ -5,7 +5,6 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 
 ## Pilot Practices Assessment Group
-<!--rehype:style=margin-bottom: 0.5rem;-->
 Examines current pilot study practices to inform future task force initiatives
 
 **1. Survey on Piloting Practices in Psychology (_completed_)**<br>
@@ -18,7 +17,6 @@ Examines current pilot study practices to inform future task force initiatives
 
 
 ## Pilot Reporting Assessment Group
-<!--rehype:style=margin-bottom: 0.5rem;-->
 Determines the baseline by evaluating how pilot studies are currently reported in published research
 
 **1. Meta-Assessment of Pilot Study Reporting in Psychology (_ongoing_)**<br>
@@ -27,7 +25,6 @@ Determines the baseline by evaluating how pilot studies are currently reported i
 
 
 ## Reporting Mechanism Development Team
-<!--rehype:style=margin-bottom: 0.5rem;-->
 Develops tools and templates for pilot study reporting and evaluation
 
 **1. Standalone and Manuscript Companion Templates (_ongoing_)**<br>
@@ -36,7 +33,6 @@ Develops tools and templates for pilot study reporting and evaluation
 
 
 ## Outreach Team
-<!--rehype:style=margin-bottom: 0.5rem;-->
 Promotes transparent pilot study practices through scholarly dissemination and partnership initiatives
 
 **1. Stage 1: Scholarly Dissemination (_ongoing_)**<br>
