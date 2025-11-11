@@ -6,7 +6,7 @@ layout: '~/layouts/MarkdownLayout.astro'
 ## Peer Reviewed Articles
 TBA
 
-## Preprints & Other Research
+## Preprints & Other Research Articles
 **A Call for Greater Transparency in Piloting**<br>
 Isaac J. Handley-Miner*, Agata Bochynska, Brett Buttliere, Kai Li Chung, Mahmoud Elsherif, Christopher J. Graham, Neele Henriette Heiser, Hannah D. Lönneker, Bjørn Sætrevik, Yashvin Seetahul, Justin Sulik, Johanna Tomczak, Caroline Zygar-Hoffmann, & Mary Beth Neff* (August 2025). [_PsyArXiv Preprint_](/A-call-for-greater-transparency-in-piloting_preprint_08.13.25.pdf)
 
