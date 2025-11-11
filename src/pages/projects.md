@@ -17,7 +17,7 @@ Examines current pilot study practices to inform future task force initiatives
 
 
 ## Pilot Reporting Assessment Group
-Determines the baseline by evaluating how pilot studies are currently reported in published research
+Determines the reporting baseline by evaluating how pilot studies are currently reported in published research
 
 **1. Meta-Assessment of Pilot Study Reporting in Psychology (_ongoing_)**<br>
    This project investigates the frequency and quality of pilot study reporting in recent psychological research. We will be recruiting contributors for article coding during summer–fall 2025. If you're interested in getting involved, please contact [Agata](https://www.ub.uio.no/english/about/people/samdig/open-research/agatabo/) or reach out to our task force team for more information.<br>
