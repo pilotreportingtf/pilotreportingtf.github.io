@@ -51,7 +51,7 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 
 ## Working Group Affiliates
-**Ettore Ambrosini**, **Armand Bardeau**, **Yu-Yang (Patrick) Chou**, **Irene Di Pietro**, **Amélie Gourdon-Kanhukamwe**, **Jane Hergert**, **Maria Montefinese**, **Ekaterina Pronizius**, **Julian Quandt**, **Radhika Srivastava**, **Andrea H. Stoevenbelt**, **Giada Viviani**
+Ettore Ambrosini, Armand Bardeau, Yu-Yang (Patrick) Chou, Irene Di Pietro, Amélie Gourdon-Kanhukamwe, Jane Hergert, Maria Montefinese, Ekaterina Pronizius, Julian Quandt, Radhika Srivastava, Andrea H. Stoevenbelt, Giada Viviani
 
 ## Past Members
 [**Rachel Hayes-Harb**](https://profiles.faculty.utah.edu/u0459139) (_University of Utah, USA_); [**Shannon Barrios**](https://profiles.faculty.utah.edu/u0907833) (_University of Utah, USA_); [**Jade Pickering**](https://www.linkedin.com/in/jadespickering/) (_Gorilla Experiment Builder, UK_);

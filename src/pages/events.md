@@ -4,11 +4,11 @@ layout: '~/layouts/MarkdownLayout.astro'
 ---
 
 ## Upcoming
-March 24, 2026 - How should we report pilot studies? Increasing transparency of piloting in research, Talk (EXCELScIOR - EXCELlent Science with Impact, Open and Reliable project, University of Coimbra, Portugal) – Bochynska
+March 24, 2026 - How should we report pilot studies? Increasing transparency of piloting in research, Talk ([EXCELScIOR - EXCELlent Science with Impact, Open and Reliable project](https://excelscior.uc.pt/), University of Coimbra, Portugal) – Bochynska
 
-May 7, 2026 – Pilot reporting in psychology: Preliminary findings from an assessment of recent articles in psychology journals, Talk ([SIPS 2026 Online](https://www.improvingpsych.org/SIPS2025/)) – Bochynska, Neff, & Pilot Reporting Task Force
+May 7, 2026 – Pilot reporting in psychology: Preliminary findings from an assessment of recent articles in psychology journals, Talk ([SIPS 2026 Online](https://www.improvingpsych.org/SIPS2026/)) – Bochynska, Neff, & Pilot Reporting Task Force
 
-May 7, 2026 – How to create an accessible guide to piloting practices in psychology?, Unconference ([SIPS 2026 Online](https://www.improvingpsych.org/SIPS2025/)) – Neff, Bochynska, & Pilot Reporting Task Force
+May 7, 2026 – How to create an accessible guide to piloting practices in psychology?, Unconference ([SIPS 2026 Online](https://www.improvingpsych.org/SIPS2026/)) – Neff, Bochynska, & Pilot Reporting Task Force
 
 
 ## Past
