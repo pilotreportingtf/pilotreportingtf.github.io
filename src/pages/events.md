@@ -4,9 +4,16 @@ layout: '~/layouts/MarkdownLayout.astro'
 ---
 
 ## Upcoming
-November 28th, 2025 - A Call for Greater Transparency in Piloting, Talk (Language and Learning Lab, University of Toronto, Online) – Neff
+March 24, 2026 - How should we report pilot studies? Increasing transparency of piloting in research, Talk (EXCELScIOR - EXCELlent Science with Impact, Open and Reliable project, University of Coimbra, Portugal) – Bochynska
+
+May 7, 2026 – Pilot reporting in psychology: Preliminary findings from an assessment of recent articles in psychology journals, Talk ([SIPS 2026 Online](https://www.improvingpsych.org/SIPS2025/)) – Bochynska, Neff, & Pilot Reporting Task Force
+
+May 7, 2026 – How to create an accessible guide to piloting practices in psychology?, Unconference ([SIPS 2026 Online](https://www.improvingpsych.org/SIPS2025/)) – Neff, Bochynska, & Pilot Reporting Task Force
+
 
 ## Past
+2025 - A Call for Greater Transparency in Piloting, Talk (Language and Learning Lab, University of Toronto, Online) – Neff
+
 2025 – A Call for Greater Transparency in Piloting, Talk (Computational Minds and Machines Lab, University of Washington, Seattle) – Handley-Miner
 
 2025 – Are We Reporting Pilots? Results from an International Survey Across Psychological Subfields, Talk ([SIPS 2025](https://www.improvingpsych.org/SIPS2025/), Budapest) – Bochynska & Pilot Reporting Task Force

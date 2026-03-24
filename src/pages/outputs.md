@@ -7,6 +7,9 @@ layout: '~/layouts/MarkdownLayout.astro'
 TBA
 
 ## Preprints & Other Research Articles
+**What Pilot Studies Can (and Cannot) Do for Validity in Psychological Research**<br>
+Yashvin Seetahul*, Mahmoud Elsherif, Caroline Zygar-Hoffmann, Lukas Wallrich, Priya Silverstein, Bjørn Sætrevik, Ilse L. Pit, Hannah Lönneker, Neele Henriette Heiser, Isaac Handley-Miner, Christopher Graham, Patrick Chou, Brett Buttliere, Agata Bochynska, Julia Beitner, & Mary Beth Neff* (February 2026). [_PsyArXiv Preprint_](/Promises_Pitfalls_Piloting_02.26.pdf)
+
 **A Call for Greater Transparency in Piloting**<br>
 Isaac J. Handley-Miner*, Agata Bochynska, Brett Buttliere, Kai Li Chung, Mahmoud Elsherif, Christopher J. Graham, Neele Henriette Heiser, Hannah D. Lönneker, Bjørn Sætrevik, Yashvin Seetahul, Justin Sulik, Johanna Tomczak, Caroline Zygar-Hoffmann, & Mary Beth Neff* (August 2025). [_PsyArXiv Preprint_](/A-call-for-greater-transparency-in-piloting_preprint_08.13.25.pdf)
 
