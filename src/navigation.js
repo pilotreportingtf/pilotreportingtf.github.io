@@ -21,6 +21,10 @@ export const headerData = {
       text: 'Outputs',
       href: getPermalink('/outputs'),
     },
+     {
+      text: 'Resources',
+      href: getPermalink('/resources'),
+    },
   ],
   actions: [],
 };
