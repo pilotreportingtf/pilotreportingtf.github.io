@@ -1,0 +1,27 @@
+---
+import { getCollection, render, type CollectionEntry } from 'astro:content';
+import MarkdownLayout from '~/layouts/MarkdownLayout.astro';
+
+export async function getStaticPaths() {
+  // Drafts stay visible while running `astro dev` so they can be previewed,
+  // but are never emitted into a production build.
+  const pages = await getCollection('pages', ({ data }) => import.meta.env.DEV || !data.draft);
+
+  return pages.map((page) => ({
+    // `index` is the site root; every other entry keeps its file name as the path.
+    params: { slug: page.id === 'index' ? undefined : page.id },
+    props: { page },
+  }));
+}
+
+interface Props {
+  page: CollectionEntry<'pages'>;
+}
+
+const { page } = Astro.props;
+const { Content } = await render(page);
+---
+
+<MarkdownLayout frontmatter={{ title: page.data.title }}>
+  <Content />
+</MarkdownLayout>

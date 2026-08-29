@@ -4,45 +4,34 @@ import { fileURLToPath } from 'url';
 import { defineConfig } from 'astro/config';
 
 import sitemap from '@astrojs/sitemap';
-import tailwind from '@astrojs/tailwind';
+import tailwindcss from '@tailwindcss/vite';
 import mdx from '@astrojs/mdx';
 import partytown from '@astrojs/partytown';
 import icon from 'astro-icon';
-import tasks from './src/utils/tasks';
+import compress from 'astro-compress';
+import type { AstroIntegration } from 'astro';
 
 import remarkToc from 'remark-toc';
-// https://github.com/josestg/rehype-figure
-import rehypeFigure from 'rehype-figure';
 // https://github.com/timlrx/rehype-citation
-import rehypeCitation from 'rehype-citation'
+import rehypeCitation from 'rehype-citation';
 // https://github.com/jaywcjlove/rehype-attr
 import rehypeAttrs from 'rehype-attr';
 import { rehypeHeadingIds } from '@astrojs/markdown-remark';
 
-import { readingTimeRemarkPlugin, responsiveTablesRehypePlugin } from './src/utils/frontmatter.mjs';
+import astrowind from './vendor/integration';
 
-import { ANALYTICS, SITE } from './src/utils/config.ts';
+import { readingTimeRemarkPlugin, responsiveTablesRehypePlugin } from './src/utils/frontmatter';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
-const whenExternalScripts = (items = []) =>
-  ANALYTICS.vendors.googleAnalytics.id && ANALYTICS.vendors.googleAnalytics.partytown
-    ? Array.isArray(items)
-      ? items.map((item) => item())
-      : [items()]
-    : [];
+const hasExternalScripts = false;
+const whenExternalScripts = (items: (() => AstroIntegration) | (() => AstroIntegration)[] = []) =>
+  hasExternalScripts ? (Array.isArray(items) ? items.map((item) => item()) : [items()]) : [];
 
 export default defineConfig({
-  site: SITE.site,
-  base: SITE.base,
-  trailingSlash: SITE.trailingSlash ? 'always' : 'never',
-
   output: 'static',
 
   integrations: [
-    tailwind({
-      applyBaseStyles: false,
-    }),
     sitemap(),
     mdx(),
     icon({
@@ -68,27 +57,48 @@ export default defineConfig({
       })
     ),
 
-    tasks(),
+    compress({
+      CSS: true,
+      HTML: {
+        'html-minifier-terser': {
+          removeAttributeQuotes: false,
+        },
+      },
+      Image: false,
+      JavaScript: true,
+      SVG: false,
+      Logger: 1,
+    }),
+
+    astrowind({
+      config: './src/config.yaml',
+    }),
   ],
+
+  image: {
+    domains: ['cdn.pixabay.com', 'images.unsplash.com', 'plus.unsplash.com'],
+  },
 
   markdown: {
     remarkPlugins: [readingTimeRemarkPlugin, remarkToc],
     rehypePlugins: [
       responsiveTablesRehypePlugin,
       rehypeHeadingIds,
-      // rehypeFigure,
-      [rehypeCitation, {
-        "bibliography": [
-          "https://raw.githubusercontent.com/timlrx/rehype-citation/main/test/references-data.bib",
-          "https://raw.githubusercontent.com/timlrx/rehype-citation/main/test/CITATION.cff"
-        ]
-      }],
+      [
+        rehypeCitation,
+        {
+          bibliography: [
+            'https://raw.githubusercontent.com/timlrx/rehype-citation/main/test/references-data.bib',
+            'https://raw.githubusercontent.com/timlrx/rehype-citation/main/test/CITATION.cff',
+          ],
+        },
+      ],
       [rehypeAttrs, { properties: 'attr' }],
-      
     ],
   },
 
   vite: {
+    plugins: [tailwindcss()],
     resolve: {
       alias: {
         '~': path.resolve(__dirname, './src'),

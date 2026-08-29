@@ -1,31 +1,59 @@
-import { getPermalink, getBlogPermalink, getAsset } from './utils/permalinks';
+import { getCollection } from 'astro:content';
+import { getPermalink } from './utils/permalinks';
+
+interface NavLink {
+  text?: string;
+  href?: string;
+  links?: NavLink[];
+}
+
+/**
+ * Permalinks of pages that are marked `draft: true` and therefore are not part of a
+ * production build. They are collected once here so navigation never points at a
+ * page that does not exist. During `astro dev` drafts are served, so nothing is hidden.
+ */
+const draftPermalinks = new Set(
+  import.meta.env.DEV
+    ? []
+    : (await getCollection('pages', ({ data }) => data.draft === true)).map(({ id }) =>
+        getPermalink(id === 'index' ? '/' : `/${id}`)
+      )
+);
+
+const withoutDrafts = (links: NavLink[]): NavLink[] =>
+  links
+    .filter(({ href }) => !href || !draftPermalinks.has(href))
+    .map((link) => (link.links ? { ...link, links: withoutDrafts(link.links) } : link));
+
+const headerLinks: NavLink[] = [
+  {
+    text: 'Home',
+    href: getPermalink('/'),
+  },
+  {
+    text: 'People',
+    href: getPermalink('/people'),
+  },
+  {
+    text: 'Projects',
+    href: getPermalink('/projects'),
+  },
+  {
+    text: 'Events',
+    href: getPermalink('/events'),
+  },
+  {
+    text: 'Outputs',
+    href: getPermalink('/outputs'),
+  },
+  {
+    text: 'Resources',
+    href: getPermalink('/resources'),
+  },
+];
+
 export const headerData = {
-  links: [
-    {
-      text: 'Home',
-      href: getPermalink('/'),
-    },
-    {
-      text: 'People',
-      href: getPermalink('/people'),
-    },
-    {
-      text: 'Projects',
-      href: getPermalink('/projects'),
-    },
-    {
-      text: 'Events',
-      href: getPermalink('/events'),
-    },
-    {
-      text: 'Outputs',
-      href: getPermalink('/outputs'),
-    },
-     {
-      text: 'Resources',
-      href: getPermalink('/resources'),
-    },
-  ],
+  links: withoutDrafts(headerLinks),
   actions: [],
 };
 

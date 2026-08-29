@@ -1,4 +1,6 @@
-import { z, defineCollection } from 'astro:content';
+import { defineCollection } from 'astro:content';
+import { z } from 'astro/zod';
+import { glob } from 'astro/loaders';
 
 const metadataDefinition = () =>
   z
@@ -6,7 +8,7 @@ const metadataDefinition = () =>
       title: z.string().optional(),
       ignoreTitleTemplate: z.boolean().optional(),
 
-      canonical: z.string().url().optional(),
+      canonical: z.url().optional(),
 
       robots: z
         .object({
@@ -46,6 +48,7 @@ const metadataDefinition = () =>
     .optional();
 
 const postCollection = defineCollection({
+  loader: glob({ pattern: ['*.md', '*.mdx'], base: 'src/data/post' }),
   schema: z.object({
     publishDate: z.date().optional(),
     updateDate: z.date().optional(),
@@ -63,6 +66,23 @@ const postCollection = defineCollection({
   }),
 });
 
+const pageCollection = defineCollection({
+  // `generateId` keeps the file name verbatim so page URLs match the source
+  // file names exactly (e.g. `MarkDownTest.md` -> `/MarkDownTest`).
+  loader: glob({
+    pattern: ['*.md', '*.mdx'],
+    base: 'src/data/pages',
+    generateId: ({ entry }) => entry.replace(/\.[^.]+$/, ''),
+  }),
+  schema: z.object({
+    title: z.string(),
+    /** Draft pages are rendered during `astro dev` but excluded from production builds. */
+    draft: z.boolean().optional(),
+    metadata: metadataDefinition(),
+  }),
+});
+
 export const collections = {
   post: postCollection,
+  pages: pageCollection,
 };
