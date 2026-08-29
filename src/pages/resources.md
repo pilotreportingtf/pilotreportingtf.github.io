@@ -1,6 +1,7 @@
 ---
 title: 'Outputs'
 layout: '~/layouts/MarkdownLayout.astro'
+draft: true
 ---
 
 ## Peer Reviewed Articles
