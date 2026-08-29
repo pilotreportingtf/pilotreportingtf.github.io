@@ -1,6 +1,5 @@
 ---
 title: 'Pilot Reporting Task Force'
-layout: '~/layouts/MarkdownLayout.astro'
 ---
 
 ## About

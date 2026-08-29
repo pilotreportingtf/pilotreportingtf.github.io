@@ -1,6 +1,5 @@
 ---
 title: 'Markdown Test Page'
-layout: '~/layouts/MarkdownLayout.astro'
 ---
 
 # Hi there!
@@ -35,7 +34,7 @@ My markdown text [@Nash1950]
 
 ## Image
 
-![Hero](../assets/images/hero.png)<!--rehype:style=width:100px;-->
+![Hero](../../assets/images/hero.png)<!--rehype:style=width:100px;-->
 
 ### Bibliography
 
@@ -43,4 +42,4 @@ My markdown text [@Nash1950]
 
 ## Mary Beth
 
-[Hero](../assets/images/hero.png)
+[Hero](../../assets/images/hero.png)

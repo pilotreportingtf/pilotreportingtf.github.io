@@ -115,6 +115,26 @@ Inside **AstroWind** template, you'll see the following folders and files:
 
 Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
 
+### Content pages and drafts
+
+The site's markdown pages live in `src/data/pages/` (not `src/pages/`) and are rendered by the
+catch-all route `src/pages/[...slug].astro`. The file name becomes the URL, and `index.md`
+becomes the site root — e.g. `src/data/pages/people.md` is served at `/people`.
+
+Add `draft: true` to a page's frontmatter to keep it out of production:
+
+```markdown
+---
+title: 'Resources'
+draft: true
+---
+```
+
+Draft pages are served normally by `npm run dev` so you can preview them, but `npm run build`
+skips them entirely: no HTML is emitted, they are absent from `sitemap-0.xml`, and any
+matching entry in `src/navigation.ts` is dropped so the menu never links to a missing page.
+Blog posts in `src/data/post/` honour the same `draft` flag.
+
 There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
 
 Any static assets, like images, can be placed in the `public/` directory if they do not require any transformation or in the `assets/` directory if they are imported directly.

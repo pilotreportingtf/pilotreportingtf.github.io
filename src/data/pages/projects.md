@@ -1,6 +1,5 @@
 ---
 title: 'Working Groups and Projects'
-layout: '~/layouts/MarkdownLayout.astro'
 ---
 
 
@@ -45,5 +44,5 @@ Promotes transparent pilot study practices through scholarly dissemination and p
 
 
 ## Past Sponsors
-[![BITSS](../assets/images/bitss_icon.png)<!--rehype:style=width:140px;&class=inline not-prose-->](https://www.bitss.org/)<!--rehype:target=_blank-->
-[![Gorilla Experiment Builder](../assets/images/logo-red-on-white.png)<!--rehype:style=width:150px;&class=inline not-prose-->](https://gorilla.sc/)<!--rehype:target=_blank-->
+[![BITSS](../../assets/images/bitss_icon.png)<!--rehype:style=width:140px;&class=inline not-prose-->](https://www.bitss.org/)<!--rehype:target=_blank-->
+[![Gorilla Experiment Builder](../../assets/images/logo-red-on-white.png)<!--rehype:style=width:150px;&class=inline not-prose-->](https://gorilla.sc/)<!--rehype:target=_blank-->
