@@ -4,6 +4,8 @@ layout: '~/layouts/MarkdownLayout.astro'
 ---
 
 ## Upcoming
+October 13, 2026 - Piloting transparency in ecology and evolution: current practices and ways forward, Unconference (Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology Conference, online) - Sánchez-Tójar, Bochynska, & Neff
+
 October 26 2026 - Behind the Scenes of Science: A Collaborative Effort Toward Transparent Piloting Practices, Talk (Guest Colloquium, University of Zurich, in-person) – Neff
 
 
