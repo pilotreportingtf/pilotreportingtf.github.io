@@ -4,14 +4,18 @@ layout: '~/layouts/MarkdownLayout.astro'
 ---
 
 ## Upcoming
-March 24, 2026 - How should we report pilot studies? Increasing transparency of piloting in research, Talk ([EXCELScIOR - EXCELlent Science with Impact, Open and Reliable project](https://excelscior.uc.pt/), University of Coimbra, Portugal) – Bochynska
-
-May 7, 2026 – Pilot reporting in psychology: Preliminary findings from an assessment of recent articles in psychology journals, Talk ([SIPS 2026 Online](https://www.improvingpsych.org/SIPS2026/)) – Bochynska, Neff, & Pilot Reporting Task Force
-
-May 7, 2026 – How to create an accessible guide to piloting practices in psychology?, Unconference ([SIPS 2026 Online](https://www.improvingpsych.org/SIPS2026/)) – Neff, Bochynska, & Pilot Reporting Task Force
+October 26 2026 - Behind the Scenes of Science: A Collaborative Effort Toward Transparent Piloting Practices, Talk (Guest Colloquium, University of Zurich, in-person) – Neff
 
 
 ## Past
+2026 - Are pilots underreported? Poster ([1st Interdisciplinary Symposium on Meta Science for Methods Research](https://crsuzh.pages.uzh.ch/msmr/), Zurich) - Neff & Bochynska
+
+2026 – How to create an accessible guide to piloting practices in psychology?, Unconference ([SIPS 2026 Online](https://www.improvingpsych.org/SIPS2026/)) – Neff, Bochynska, & Pilot Reporting Task Force
+
+2026 – Pilot reporting in psychology: Preliminary findings from an assessment of recent articles in psychology journals, Talk ([SIPS 2026 Online](https://www.improvingpsych.org/SIPS2026/)) – Bochynska, Neff, & Pilot Reporting Task Force
+
+2026 - How should we report pilot studies? Increasing transparency of piloting in research, Talk ([EXCELScIOR - EXCELlent Science with Impact, Open and Reliable project](https://excelscior.uc.pt/), University of Coimbra, Portugal) – Bochynska
+
 2025 - A Call for Greater Transparency in Piloting, Talk (Language and Learning Lab, University of Toronto, Online) – Neff
 
 2025 – A Call for Greater Transparency in Piloting, Talk (Computational Minds and Machines Lab, University of Washington, Seattle) – Handley-Miner
