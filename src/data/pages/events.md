@@ -4,13 +4,13 @@ layout: '~/layouts/MarkdownLayout.astro'
 ---
 
 ## Upcoming
-October 13, 2026 - Piloting transparency in ecology and evolution: current practices and ways forward, Unconference (Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology Conference, online) - Sánchez-Tójar, Bochynska, & Neff
+October 13, 2026 - Piloting transparency in ecology and evolution: current practices and ways forward, Unconference (Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology Conference, online) – Sánchez-Tójar, Bochynska, & Neff
 
-October 26 2026 - Behind the Scenes of Science: A Collaborative Effort Toward Transparent Piloting Practices, Talk (Guest Colloquium, University of Zurich, in-person) – Neff
+October 26, 2026 - Behind the Scenes of Science: A Collaborative Effort Toward Transparent Piloting Practices, Talk (Guest Colloquium, University of Zurich, in-person) – Neff
 
 
 ## Past
-2026 - Are pilots underreported? Poster ([1st Interdisciplinary Symposium on Meta Science for Methods Research](https://crsuzh.pages.uzh.ch/msmr/), Zurich) - Neff & Bochynska
+2026 - Are pilots underreported? Poster ([1st Interdisciplinary Symposium on Meta Science for Methods Research](https://crsuzh.pages.uzh.ch/msmr/), Zurich) – Neff & Bochynska
 
 2026 – How to create an accessible guide to piloting practices in psychology?, Unconference ([SIPS 2026 Online](https://www.improvingpsych.org/SIPS2026/)) – Neff, Bochynska, & Pilot Reporting Task Force
 
