@@ -10,7 +10,7 @@ October 26, 2026 – Behind the Scenes of Science: A Collaborative Effort Toward
 
 
 ## Past
-2026 – Are pilots underreported? Poster ([1st Interdisciplinary Symposium on Meta Science for Methods Research](https://crsuzh.pages.uzh.ch/msmr/), Zurich) – Neff & Bochynska
+2026 – Are pilots underreported? Poster ([1st Interdisciplinary Symposium on Meta Science for Methods Research](https://crsuzh.pages.uzh.ch/msmr/), Zurich) – Neff
 
 2026 – How to create an accessible guide to piloting practices in psychology?, Unconference ([SIPS 2026 Online](https://www.improvingpsych.org/SIPS2026/)) – Neff, Bochynska, & Pilot Reporting Task Force
 
